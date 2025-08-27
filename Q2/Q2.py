@@ -61,7 +61,7 @@ class HW2_sql():
 
     # GTusername [0 points]
     def GTusername(self):
-        gt_username = "lye60"
+        gt_username = "abcde"
         return gt_username
     
     # Part 1.a.i Create Tables [2 points]
@@ -331,3 +331,4 @@ if __name__ == "__main__":
     #################################################################################
     #################################################################################
   
+
